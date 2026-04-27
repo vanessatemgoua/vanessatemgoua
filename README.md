@@ -1,4 +1,4 @@
-# Bonjour, je suis Vanessa 👋
+# Bonjour, je suis Vanessa Kenfack 👋
 
 **Consultant Data Analyst & BI/ Data Scientist Junior / Analytics Engineers Junior** basée en France, je transforme des données brutes en décisions métiers concrètes.
 
