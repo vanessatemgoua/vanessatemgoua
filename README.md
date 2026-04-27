@@ -1,8 +1,8 @@
 # Bonjour, je suis Vanessa 👋
 
-**Consultant Data Analyst & BI** basée en France, je transforme des données brutes en décisions métiers concrètes.
+**Consultant Data Analyst & BI/ Data Scientist Junior / Analytics Engineers Junior** basée en France, je transforme des données brutes en décisions métiers concrètes.
 
-Je conçois des architectures data, développe des pipelines ETL et crée des tableaux de bord décisionnels qui permettent aux équipes de piloter leur activité avec fiabilité.
+Je conçois des architectures data, développe des pipelines ETL et crée des tableaux de bord décisionnels et mets en place des modèles de Machine Learning qui permettent aux équipes de piloter leur activité avec fiabilité et d'anticiper les tendances clés.
 
 ---
 
